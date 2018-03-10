@@ -1,0 +1,13 @@
+* Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。
+它有不同操作系统平台的发布版本。运行状态安装后类似于RUBY。
+* JavaScript 是 Web 的编程语言。
+所有现代的 HTML 页面都使用 JavaScript。
+* Eclipse 是一个开放源代码的、基于 Java 的可扩展开发平台。
+Eclipse 是 Java 的集成开发环境（IDE），当然 Eclipse 也可以作为其他开发语言的集成开发环境，如C，C++，PHP，和 Ruby 等
+* Electron 基于 Node.js,可以让你使用纯 JavaScript 调用丰富的原生 APIs 来创造桌面应用。你可以把它看作一个专注于桌面应用的 Node.js 的变体，而不是 Web 服务器。
+这不意味着 Electron 是绑定了 GUI 库的 JavaScript。相反，Electron 使用 web 页面作为它的GUI，所以你能把它看作成一个被 JavaScript 控制的，精简版的 Chromium 浏览器。
+* VueJS vs Angular vs ReactJS 
+Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries, and are used to build web-interfaces.
+*  preprocessing languages like Sass, Less, Stylus, Cssnext, Jade/Pug, Markdown, Slim, Coffeescript etc.
+
+
